@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/parin.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"parin.24cbe747.css","sourceRoot":"..\\src","sourcesContent":["/*实现精准分页 */\r\n@media print {\r\n    .cyl-print {\r\n        page-break-after: always;\r\n    }\r\n\r\n    .alick {\r\n        /* display: none; */\r\n    }\r\n}"]}
