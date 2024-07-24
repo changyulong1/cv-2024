@@ -1,9 +1,9 @@
 @font-face {
   font-family: "iconfont";
   /* Project id 4480406 */
-  src: url('/iconfont.bd210aea.woff2?t=1711342151277') format('woff2'),
-    url('/iconfont.24ac92a1.woff?t=1711342151277') format('woff'),
-    url('/iconfont.9fbee8ca.ttf?t=1711342151277') format('truetype');
+  src: url('iconfont.bd210aea.woff2?t=1711342151277') format('woff2'),
+    url('iconfont.24ac92a1.woff?t=1711342151277') format('woff'),
+    url('iconfont.9fbee8ca.ttf?t=1711342151277') format('truetype');
 }
 
 .iconfont {
@@ -38,4 +38,4 @@
   content: "\ebcc";
 }
 
-/*# sourceMappingURL=/iconfont.0e54afcd.css.map */
+/*# sourceMappingURL=iconfont.16373276.css.map */

@@ -118,6 +118,6 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   return newRequire;
 })({"epB2":[function(require,module,exports) {
-
+console.log('我的简历');
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=/main.dfc06931.js.map
+//# sourceMappingURL=main.3d37d9a0.js.map
